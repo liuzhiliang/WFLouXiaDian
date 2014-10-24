@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://124.133.240.132:8889/resource/download/package/L/LouXiaDian.ipa</string>
+					<string>http://58.58.27.156:8889/resource/download/package/L/LouXiaDian.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://124.133.240.132:8889/resource/download/package/L/icon512.png</string>
+					<string>http://58.58.27.156:8889/resource/download/package/L/icon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://124.133.240.132:8889/resource/download/package/L/icon57.png</string>
+					<string>http://58.58.27.156:8889/resource/download/package/L/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
